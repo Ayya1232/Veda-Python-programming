@@ -3,7 +3,8 @@ Simple Command-Line To-Do List
 --------------------------------
 Learning goals: lists, loops, conditions, menu-driven programs.
 
-Tasks are stored in a list of dictionaries, e.g.:
+Tasks are stored in a list of dictionaries, e.g.:0
+
     {"id": 1, "title": "Buy milk", "done": False}
 """
 

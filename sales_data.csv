@@ -1,0 +1,16 @@
+employee,region,sales_amount,units_sold,date
+Alice Johnson,North,4500.50,30,2026-01-05
+Bob Smith,South,3200.00,22,2026-01-05
+Carla Diaz,East,,15,2026-01-06
+David Lee,West,5100.75,,2026-01-06
+Alice Johnson,North,3900.00,28,2026-01-07
+Emma Brown,South,2750.25,19,2026-01-07
+Bob Smith,South,invalid,25,2026-01-08
+Frank Wu,East,6200.00,40,2026-01-08
+Carla Diaz,East,3300.50,21,2026-01-09
+David Lee,West,4800.00,33,2026-01-09
+Emma Brown,South,,17,2026-01-10
+Frank Wu,East,5900.25,38,2026-01-10
+Alice Johnson,North,4100.00,29,2026-01-11
+Grace Kim,North,3600.75,24,2026-01-11
+Grace Kim,North,,n/a,2026-01-12

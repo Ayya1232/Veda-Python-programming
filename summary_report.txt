@@ -1,0 +1,46 @@
+==================================================
+CSV DATA PROCESSING SUMMARY REPORT
+==================================================
+Source file: c:\Users\AYYAPPA\OneDrive\Desktop\VEDA_Pytyhon Programming_Task_1\sales_data.csv
+
+-- Row Counts --
+Total data rows read:        15
+Rows with valid sales_amount: 11
+Rows with valid units_sold:   13
+Fields skipped (missing/invalid): 6
+
+-- Sales Statistics --
+Total sales:   $47,353.00
+Average sale:  $4,304.82
+Highest sale:  $6,200.00 (by Frank Wu)
+
+-- Units Statistics --
+Total units sold:   341
+Average units sold: 26.23
+
+-- Sales by Employee --
+  Alice Johnson        $12,500.50
+  Frank Wu             $12,100.25
+  David Lee            $9,900.75
+  Grace Kim            $3,600.75
+  Carla Diaz           $3,300.50
+  Bob Smith            $3,200.00
+  Emma Brown           $2,750.25
+Top performer: Alice Johnson
+
+-- Sales by Region --
+  North                $16,101.25
+  East                 $15,400.75
+  West                 $9,900.75
+  South                $5,950.25
+Top region: North
+
+-- Data Quality Issues (skipped from calculations) --
+  Row 4 (Carla Diaz): missing sales_amount
+  Row 5 (David Lee): missing units_sold
+  Row 8 (Bob Smith): invalid sales_amount ('invalid')
+  Row 12 (Emma Brown): missing sales_amount
+  Row 16 (Grace Kim): missing sales_amount
+  Row 16 (Grace Kim): invalid units_sold ('n/a')
+
+==================================================

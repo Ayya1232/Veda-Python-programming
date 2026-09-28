@@ -1,0 +1,53 @@
+{
+  "company": "TechNova Ltd",
+  "search_name_'an'": [
+    "Brian Okoye",
+    "Diana Lopez"
+  ],
+  "filter_department_Engineering": [
+    "Amina Yusuf",
+    "Chen Wei",
+    "Elias Mensah"
+  ],
+  "filter_salary_at_least_4500": [
+    "Amina Yusuf",
+    "Chen Wei",
+    "Elias Mensah"
+  ],
+  "filter_skill_Python": [
+    "Amina Yusuf",
+    "Chen Wei"
+  ],
+  "summary": {
+    "total_employees": 7,
+    "average_salary": 4485.71,
+    "highest_paid": {
+      "name": "Chen Wei",
+      "salary": 6100
+    },
+    "by_department": {
+      "Engineering": {
+        "count": 3,
+        "average_salary": 5333.33
+      },
+      "Marketing": {
+        "count": 2,
+        "average_salary": 4000.0
+      },
+      "HR": {
+        "count": 2,
+        "average_salary": 3700.0
+      }
+    }
+  },
+  "invalid_records": [],
+  "cities": {
+    "Amina Yusuf": "Lagos",
+    "Brian Okoye": "Abuja",
+    "Chen Wei": "Shanghai",
+    "Diana Lopez": "Madrid",
+    "Elias Mensah": "Accra",
+    "Fatima Bello": "Lagos",
+    "Grace Kim": "N/A"
+  }
+}

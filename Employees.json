@@ -1,0 +1,12 @@
+{
+  "company": "TechNova Ltd",
+  "employees": [
+    {"id": 1, "name": "Amina Yusuf", "department": "Engineering", "salary": 5200, "skills": ["Python", "SQL"], "address": {"city": "Lagos", "country": "Nigeria"}},
+    {"id": 2, "name": "Brian Okoye", "department": "Marketing", "salary": 3800, "skills": ["SEO", "Writing"], "address": {"city": "Abuja", "country": "Nigeria"}},
+    {"id": 3, "name": "Chen Wei", "department": "Engineering", "salary": 6100, "skills": ["Python", "Docker", "AWS"], "address": {"city": "Shanghai", "country": "China"}},
+    {"id": 4, "name": "Diana Lopez", "department": "HR", "salary": 3500, "skills": ["Recruiting"], "address": {"city": "Madrid", "country": "Spain"}},
+    {"id": 5, "name": "Elias Mensah", "department": "Engineering", "salary": 4700, "skills": ["JavaScript", "SQL"], "address": {"city": "Accra", "country": "Ghana"}},
+    {"id": 6, "name": "Fatima Bello", "department": "Marketing", "salary": 4200, "skills": ["Design", "SEO"], "address": {"city": "Lagos", "country": "Nigeria"}},
+    {"id": 7, "name": "Grace Kim", "department": "HR", "salary": 3900, "skills": ["Payroll", "Recruiting"]}
+  ]
+}

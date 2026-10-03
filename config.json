@@ -1,0 +1,31 @@
+{
+    "input_file": "input/raw_data.csv",
+    "output_dir": "output",
+    "log_file": "logs/pipeline.log",
+    "required_columns": [
+        "employee_id",
+        "name",
+        "department",
+        "salary"
+    ],
+    "drop_duplicates": true,
+    "missing_values": {
+        "name": "Unknown",
+        "department": "Unassigned"
+    },
+    "strip_whitespace": true,
+    "uppercase_columns": [
+        "department"
+    ],
+    "numeric_columns": [
+        "salary"
+    ],
+    "min_values": {
+        "salary": 0
+    },
+    "output_files": {
+        "raw": "raw_copy.csv",
+        "transformed": "transformed_data.csv",
+        "final": "final_data.csv"
+    }
+}

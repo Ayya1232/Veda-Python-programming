@@ -1,0 +1,21 @@
+csv_row,row_index,column,issue,value
+5,3,age,Invalid data type (expected numeric),abc
+12,10,age,Extreme outlier (outside -55.00..155.00),250
+12,10,age,Impossible age (>120),250
+17,15,age,Negative value in non-negative field,-5
+22,20,email,Missing value,
+23,21,email,Missing value,
+24,22,email,Missing value,
+25,23,email,Missing value,
+26,24,email,Missing value,
+27,25,email,Missing value,
+28,26,email,Missing value,
+29,27,email,Missing value,
+32,30,email,Malformed email address,not-an-email
+42,40,purchase_amount,Extreme outlier (outside -6.57..237.73),99999
+43,41,purchase_amount,Missing value,
+52,50,signup_date,Date in the future,2031-05-01
+53,51,signup_date,Invalid data type (expected datetime),not a date
+62,60,name,Leading/trailing whitespace,  Padded Name 
+202,200,(entire row),Duplicate row,
+203,201,(entire row),Duplicate row,

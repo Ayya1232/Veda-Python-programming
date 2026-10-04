@@ -1,0 +1,9 @@
+column,inferred_type,non_null,missing,completeness_pct,unique_values,uniqueness_pct,invalid_type_count,validity_pct,constant_column
+customer_id,numeric,202,0,100.0,200,99.01,0,100.0,False
+name,text,202,0,100.0,200,99.01,0,100.0,False
+email,text,194,8,96.04,192,98.97,0,100.0,False
+age,numeric,202,0,100.0,60,29.7,1,99.5,False
+purchase_amount,numeric,201,1,99.5,197,98.01,0,100.0,False
+signup_date,datetime,202,0,100.0,200,99.01,1,99.5,False
+country,text,202,0,100.0,3,1.49,0,100.0,False
+status,text,202,0,100.0,1,0.5,0,100.0,True

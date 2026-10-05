@@ -1,0 +1,7 @@
+customer_id,name,email,phone,address,city,zip,group_id
+7,Aisha Khan,aisha.khan@mail.com,555-777-8888,5 Lake Road,Houston,77001,1
+8,Aisha Khan,aisha.khan@mail.com,555-777-8888,5 Lake Rd,Houston,77001,1
+1,John Smith,john.smith@mail.com,(555) 123-4567,12 Oak Street,Austin,73301,2
+2,john smith,JOHN.SMITH@mail.com,555-123-4567,12 Oak St.,Austin,73301,2
+4,Maria Garcia,maria.g@mail.com,555-222-3333,88 Pine Avenue,Dallas,75001,3
+5,Maria Garcia,maria.g@mail.com,+1 555 222 3333,88 Pine Ave,Dallas,75001,3

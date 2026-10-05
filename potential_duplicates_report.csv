@@ -1,0 +1,5 @@
+id_a,id_b,name_a,name_b,email_a,email_b,phone_a,phone_b,address_a,address_b,name_sim,email_sim,phone_sim,address_sim,match_score,decision
+9,10,Robert Brown,Roberto Brown,rbrown@mail.com,r.brown@mail.com,555-901-2345,555-901-2345,300 Main Street,300 Main St,0.96,0.97,1.0,1.0,0.976,REVIEW
+1,3,John Smith,Jon Smith,john.smith@mail.com,jon.smith@mail.com,(555) 123-4567,5551234567,12 Oak Street,12 Oak St,0.95,0.97,1.0,1.0,0.972,REVIEW
+2,3,john smith,Jon Smith,JOHN.SMITH@mail.com,jon.smith@mail.com,555-123-4567,5551234567,12 Oak St.,12 Oak St,0.95,0.97,1.0,1.0,0.972,REVIEW
+13,14,Priya Nair,Priya Nayar,priya.n@mail.com,priya.n@mail.com,555-313-4141,555-313-4141,40 Cedar Blvd,40 Cedar Boulevard,0.86,1.0,1.0,1.0,0.943,REVIEW

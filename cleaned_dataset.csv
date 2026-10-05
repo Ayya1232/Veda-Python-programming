@@ -1,0 +1,12 @@
+customer_id,name,email,phone,address,city,zip,needs_review
+1,John Smith,john.smith@mail.com,(555) 123-4567,12 Oak Street,Austin,73301,True
+3,Jon Smith,jon.smith@mail.com,5551234567,12 Oak St,Austin,73301,True
+4,Maria Garcia,maria.g@mail.com,555-222-3333,88 Pine Avenue,Dallas,75001,False
+6,Maria Garcia-Lopez,mgarcia@work.com,555-222-3333,88 Pine Ave,Dallas,75001,False
+7,Aisha Khan,aisha.khan@mail.com,555-777-8888,5 Lake Road,Houston,77001,False
+9,Robert Brown,rbrown@mail.com,555-901-2345,300 Main Street,Austin,73301,True
+10,Roberto Brown,r.brown@mail.com,555-901-2345,300 Main St,Austin,73301,True
+11,Linda Chen,linda.chen@mail.com,555-444-5555,9 Hill Lane,Plano,75023,False
+12,David Lee,dlee@mail.com,555-666-1212,71 Elm Drive,Austin,73301,False
+13,Priya Nair,priya.n@mail.com,555-313-4141,40 Cedar Blvd,Dallas,75001,True
+14,Priya Nayar,priya.n@mail.com,555-313-4141,40 Cedar Boulevard,Dallas,75001,True

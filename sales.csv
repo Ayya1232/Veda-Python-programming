@@ -1,0 +1,11 @@
+order_id,region,product,units,revenue,rating
+1,North,Laptop,3,2700,4.5
+2,South,Phone,10,5000,4.1
+3,East,Laptop,2,1800,4.8
+4,North,Tablet,5,1500,3.9
+5,West,Phone,7,3500,4.3
+6,South,Laptop,1,900,
+7,East,Tablet,8,2400,4.0
+8,West,Laptop,4,3600,4.7
+9,North,Phone,6,3000,4.2
+10,South,Tablet,3,900,3.8

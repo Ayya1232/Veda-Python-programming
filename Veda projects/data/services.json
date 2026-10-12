@@ -1,0 +1,37 @@
+[
+  {
+    "id": 1,
+    "name": "Custom Web App",
+    "category": "Web Development",
+    "price": 4500.0,
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "name": "Cloud Migration",
+    "category": "Cloud",
+    "price": 8000.0,
+    "status": "Active"
+  },
+  {
+    "id": 3,
+    "name": "Data Dashboard",
+    "category": "Data & AI",
+    "price": 3000.0,
+    "status": "Active"
+  },
+  {
+    "id": 4,
+    "name": "Security Audit",
+    "category": "Cybersecurity",
+    "price": 2500.0,
+    "status": "Active"
+  },
+  {
+    "id": 5,
+    "name": "IT Strategy Session",
+    "category": "Consulting",
+    "price": 900.0,
+    "status": "Active"
+  }
+]

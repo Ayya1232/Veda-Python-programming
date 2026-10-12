@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "customer_id": 1,
+    "subject": "Quote for web app",
+    "kind": "Inquiry",
+    "status": "Open",
+    "created": "2026-10-12"
+  },
+  {
+    "id": 2,
+    "customer_id": 2,
+    "subject": "Need security audit",
+    "kind": "Service Request",
+    "status": "Open",
+    "created": "2026-10-12"
+  }
+]

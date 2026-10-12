@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Python Bootcamp",
+    "type": "Training",
+    "seats": 30,
+    "enrolled": 0,
+    "status": "Open"
+  },
+  {
+    "id": 2,
+    "name": "Cloud Fundamentals",
+    "type": "Training",
+    "seats": 25,
+    "enrolled": 0,
+    "status": "Open"
+  },
+  {
+    "id": 3,
+    "name": "Summer Dev Internship",
+    "type": "Internship",
+    "seats": 10,
+    "enrolled": 0,
+    "status": "Open"
+  }
+]
